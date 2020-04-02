@@ -33,6 +33,7 @@
 }
 
 .register-container .content section p{
+    padding-right: 60px;;
     font-size: 18px;
     color: #737380;
     line-height: 32px;
