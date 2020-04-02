@@ -51,3 +51,27 @@ form input {
 .button:hover {
     filter: brightness(90%);
 }
+
+/*  seção abaixo do botão de entrar*/
+.back-link {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    color: #41414d;
+    font-size: 18px;
+    text-decoration: none;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+
+}
+
+ /*  distancia entre icone svg e o texto */
+.back-link svg {
+    margin-right: 8px;
+}
+
+.back-link:hover {
+    opacity: 0.8;
+}
